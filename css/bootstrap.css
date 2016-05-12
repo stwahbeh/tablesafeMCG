@@ -1588,6 +1588,10 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+#message {
+  height:500px;
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
@@ -2734,7 +2738,7 @@ select[multiple].input-sm {
 }
 .form-group-sm textarea.form-control,
 .form-group-sm select[multiple].form-control {
-  height: auto;
+  height: 500px;
 }
 .form-group-sm .form-control-static {
   height: 30px;
