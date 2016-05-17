@@ -2738,7 +2738,7 @@ select[multiple].input-sm {
 }
 .form-group-sm textarea.form-control,
 .form-group-sm select[multiple].form-control {
-  height: 500px;
+  height: auto;
 }
 .form-group-sm .form-control-static {
   height: 30px;
